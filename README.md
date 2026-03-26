@@ -54,10 +54,30 @@ The agent follows the **ReAct (Reason + Act)** pattern. When a user submits a qu
 4. **Observes** the output and sends it back to the LLM to provide a final response.
 
 ## Screen Shots
+**TicTacToe**
 <img width="1057" height="149" alt="Screenshot 2026-03-26 at 11 05 11 PM" src="https://github.com/user-attachments/assets/cc3e5060-a0fa-4d8d-a054-0292359d1756" />
 
 <img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 40 PM" src="https://github.com/user-attachments/assets/2711bcc8-f909-4337-ad5c-3fe2e2bd5c78" />
 
-<img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 40 PM" src="https://github.com/user-attachments/assets/4a57bad8-3af0-4890-b178-7ec4d0e212b5" />
+<img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 15 PM" src="https://github.com/user-attachments/assets/209877bd-25bd-41ba-a78d-aa751b6d3df3" />
+
+**Connect4**
+
+<img width="1016" height="127" alt="Screenshot 2026-03-26 at 11 07 49 PM" src="https://github.com/user-attachments/assets/ec22f9fa-5876-4644-a1ec-fd4ddd5f71f2" />
+
+<img width="570" height="827" alt="Screenshot 2026-03-26 at 11 12 36 PM" src="https://github.com/user-attachments/assets/9e6464ec-6ec7-4917-a895-d2a665038af9" />
+
+<img width="570" height="827" alt="Screenshot 2026-03-26 at 11 12 21 PM" src="https://github.com/user-attachments/assets/426b8ce7-2c73-4810-ad00-0ebff5f32d56" />
+
+
+**2048 Game**
+
+<img width="1043" height="279" alt="Screenshot 2026-03-26 at 11 21 24 PM" src="https://github.com/user-attachments/assets/839e7339-ca2f-49c1-b3e2-5e2c1766667e" />
+<img width="570" height="827" alt="Screenshot 2026-03-26 at 11 20 30 PM" src="https://github.com/user-attachments/assets/df576cf5-752b-49df-8c62-5b0e06a06dd9" />
+
+<img width="570" height="827" alt="Screenshot 2026-03-26 at 11 21 00 PM" src="https://github.com/user-attachments/assets/07517de1-ee2a-4bab-99ec-e2ad3da362b1" />
+
+<img width="372" height="410" alt="Screenshot 2026-03-26 at 11 21 39 PM" src="https://github.com/user-attachments/assets/b98e187b-39ee-4b25-a410-edb9c7164a1c" />
+
 
 
