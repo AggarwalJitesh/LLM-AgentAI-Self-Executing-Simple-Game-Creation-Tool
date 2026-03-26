@@ -54,6 +54,9 @@ The agent follows the **ReAct (Reason + Act)** pattern. When a user submits a qu
 4. **Observes** the output and sends it back to the LLM to provide a final response.
 
 ## Screen Shots
-<img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 15 PM" src="https://github.com/user-attachments/assets/e9a7331e-d2fc-4a1c-83f9-a5bb138c60f5" />
+<img width="1057" height="149" alt="Screenshot 2026-03-26 at 11 05 11 PM" src="https://github.com/user-attachments/assets/cc3e5060-a0fa-4d8d-a054-0292359d1756" />
+
+<img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 15 PM" src="https://github.com/user-attachments/assets/c7e9c15a-3c4b-4d9c-ba0e-4314f86d13d6" />
+<img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 15 PM" src="https://github.com/user-attachments/assets/c7e9c15a-3c4b-4d9c-ba0e-4314f86d13d6" />
 <img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 15 PM" src="https://github.com/user-attachments/assets/e9a7331e-d2fc-4a1c-83f9-a5bb138c60f5" />
 
