@@ -1,8 +1,3 @@
-Since you are building a **Self-Executing AI Agent** that handles shell commands, Bitcoin prices, and potentially web searches, your README should highlight the "Agentic" nature of the project.
-
-Here is a professional, clean template you can use.
-
-***
 
 # 🤖 GenAI-Shell-Agent
 A Python-based AI agent powered by **Gemini 2.0 Flash** that can reason through tasks, execute local shell commands, and fetch real-time data via APIs.
@@ -58,23 +53,7 @@ The agent follows the **ReAct (Reason + Act)** pattern. When a user submits a qu
 3. **Executes** the Python function locally.
 4. **Observes** the output and sends it back to the LLM to provide a final response.
 
+## Screen Shots
+<img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 15 PM" src="https://github.com/user-attachments/assets/e9a7331e-d2fc-4a1c-83f9-a5bb138c60f5" />
+<img width="572" height="839" alt="Screenshot 2026-03-26 at 11 06 15 PM" src="https://github.com/user-attachments/assets/e9a7331e-d2fc-4a1c-83f9-a5bb138c60f5" />
 
-
----
-
-## ⚠️ Safety Warning
-> **Warning:** This agent has the capability to execute shell commands on your local machine. Use it in a controlled environment and be specific with your system instructions to prevent accidental file deletion.
-
----
-
-## 📜 License
-MIT License - feel free to use and modify for your own projects!
-
-***
-
-### Pro-Tip for GitHub:
-To make this look even better on your profile, I recommend:
-1. **Adding a GIF** of the terminal creating an HTML file and it popping up in the browser.
-2. **Adding a "Future Roadmap"** section mentioning the Web Search and Memory tools we discussed.
-
-Would you like me to add a specific section for **Environment Variables** if you decide to hide your API key (which you should)?
