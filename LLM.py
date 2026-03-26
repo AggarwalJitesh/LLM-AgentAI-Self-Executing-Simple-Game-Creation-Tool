@@ -3,7 +3,7 @@ import subprocess
 import requests
 
 # 1. Setup Client
-client = genai.Client(api_key="AIzaSyB_ijmRo4PtbkX36eVgUMWAGA1vsvnVvXM")
+client = genai.Client(api_key="<>")
 MODEL_ID = "gemini-2.5-flash" 
 
 # 2. Define the local function
